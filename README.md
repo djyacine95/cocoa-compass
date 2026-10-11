@@ -6,8 +6,6 @@
 |------|------|------------------|
 | Yacine Djeddi | Sole author (data collection, storage, analysis, visualization, and interface) | yacine.djeddi@sjsu.edu / @djyacine95|
 
-This is a solo project, so Yacine Djeddi wrote both the Data Collection and Storage Plan and the Data Analysis and Visualization Plan below.
-
 ---
 
 ## Project Description
