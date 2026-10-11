@@ -4,7 +4,7 @@
 
 | Name | Role | Contact / GitHub |
 |------|------|------------------|
-| Yacine Djeddi | Sole author (data collection, storage, analysis, visualization, and interface) | [email] / [@github-handle] |
+| Yacine Djeddi | Sole author (data collection, storage, analysis, visualization, and interface) | yacine.djeddi@sjsu.edu / @djyacine95|
 
 This is a solo project, so Yacine Djeddi wrote both the Data Collection and Storage Plan and the Data Analysis and Visualization Plan below.
 
@@ -211,8 +211,8 @@ I may add a world map of average rating by bean origin as an advanced visualizat
 ## Getting Started
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone <https://github.com/djyacine95/cocoa-compass>
+cd <cocoa-compass>
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
